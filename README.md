@@ -12,5 +12,5 @@ touch .env
 npm start
 ```
 
-###Client 
+## Client 
 [Client side](https://github.com/AidenJongheeLee/auth-client)
